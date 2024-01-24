@@ -1,0 +1,17 @@
+{
+  "name": "chartjs-node-example",
+  "version": "1.0.0",
+  "description": "Generate a Chart.js chart as an image in Node.js",
+  "main": "generateChartImage.js",
+  "scripts": {
+    "start": "node generateChartImage.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chart.js": "^3.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
